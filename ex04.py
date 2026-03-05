@@ -12,3 +12,4 @@ amigos = ["Huguinho", "Zezinho", "Luizinho", "Zezinho"]
 print(sorted(amigos, reverse=True, key=str.upper))#cria uma lista com invertida, não sensitive
 print(amigos)
 
+print(len(amigos)) #tamanho da lista
